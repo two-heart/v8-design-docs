@@ -1,7 +1,13 @@
 # V8 Design Docs
 
-V8 is largly undocumented.
-One 
+V8 is largely undocumented.
+An important source to understand V8 are design documents.
+To the best of my knowledge, there is no index of all design docs.
+This is an attempt to be that index.
+It is not limited to design docs in the strict sense; more like "Google Doc with details about V8 development".
+
+Feel free to open PRs that add V8 design docs or fill in missing information.
+
 
 | Title | Author | Created | Modified | Status | Public |
 | ----- | ------ | ------- | -------- | ------ | ------ | 
