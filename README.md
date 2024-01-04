@@ -168,6 +168,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [String lock-free concurrent reads](https://docs.google.com/document/d/1Drzigf17t4ofy0evDmaIL5p0MDZuAl95c9fSeX-QjVg/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Support v8 DisplayNames ‘language’ and ‘region’ by JNI](https://docs.google.com/document/d/1AroPgQLeIsk5JXfkpA8mcAf7OBTkelqibuvYy8fJuQ4/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Supporting experimental JS shared values in postMessage](https://docs.google.com/document/d/1TV6agY9dafVJFvdPrUAGbEvos8wL2WDnsmf84n3OJVU/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Spread call performance Design Doc](https://docs.google.com/document/d/1DWPizOSKqHhSJ7bdEI0HIVnner84xToEKUYqgXm3g30/) | Peter Marshall | yyyy-mm-dd | 2017-02-27 | ? | yes |
 | [Switching to the central stack in the Wasm-to-JS wrapper](https://docs.google.com/document/d/1DBVwKthBdejx9Qy1W8indme5pJ6mq_fSdhQ3N-K2XP4/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [TaggedIndex class](https://docs.google.com/document/d/1D3hzXK7m-togjZqyqOc0Hig-E7FvMOBSuPYONUAY2ik/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Tail duplication during code-gen](https://docs.google.com/document/d/14QinUA-HpixgsqGZCupXiltJg2mIGPDWAagK3kSncBQ/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
