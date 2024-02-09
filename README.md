@@ -82,6 +82,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Happy V8 developers writing test262 tests](https://docs.google.com/document/d/16bj7AIDgZLv4WOsUEzQ5NzcEN9_xo095e88Pz8FC5rA/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Ignition Design Doc](https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Ignition TDZ check elision](https://docs.google.com/document/d/1klT7-tQpxtYbwhssRDKfUMEgm-NS3iUeMuApuRgZnAw/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Ignition: Register Equivalence Optimization](https://docs.google.com/document/d/1wW_VkkIwhAAgAxLYM0wvoTEkq8XykibDIikGpWH7l1I/) | ? | yyyy-mm-dd | 2016-04-11 | ? | yes |
 | [Implement the String Handling of “Intl.NumberFormat v3” in V8 Design Doc](https://docs.google.com/document/d/14zxGub6Os6nARzH6XstOZX05w2537sZo_ZSSlGjGpBM/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Implement “Intl Enumeration API” Proposal to V8 Design Doc](https://docs.google.com/document/d/1lbj_YVW-xhzYNMQeHB-qDjVkf4SA-eTHYpYXx3Oaud8/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Implement “Intl Locale Info” Proposal to V8 Design Doc](https://docs.google.com/document/d/1OwEsvs8VQwvR-ug01xLyIwpgcvUfaP24u9owc7aBKJ4/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
