@@ -101,7 +101,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Iterator builtins design document](https://docs.google.com/document/d/13z1fvRVpe_oEroplXEEX0a3WK94fhXorHjcOMsDmR-8/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [JS Promise Integration API](https://docs.google.com/document/d/1VogUgBN-0I9tE3Y9SfO5ev6grY38h9ci30EJnE6T1ho/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [JSAny: A Torque Type for JavaScript Values](https://docs.google.com/document/d/1z6j0pWHnNIfId0v00uWN2HBrGRDJxJfYuCr5K7Kr1xA/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
-| [Lazy deoptimization without code patching](https://docs.google.com/document/d/1ELgd71B6iBaU6UmZ_lvwxf_OrYYnv0e4nuzZpK05-pg) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Lazy deoptimization without code patching](https://docs.google.com/document/d/1ELgd71B6iBaU6UmZ_lvwxf_OrYYnv0e4nuzZpK05-pg/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Lazy feedback vector allocation](https://docs.google.com/document/d/1m2PTNChrlJqw9MiwK_xEJfqbFHAgEHmgGqmIN49PaBY/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Leaptiering](https://docs.google.com/document/d/1Rf_Y7vLOYDCAVcpdJnSkwWcJeHj1K3CR2laF_oPbCZc/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Local compile hints](https://docs.google.com/document/d/1sM3Zkh2N48OIdUW7D2sca-6Tp85GFyFn_fQq1Kef76M/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
@@ -110,7 +110,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [maglev-osr](https://docs.google.com/document/d/1elYLtMbyouU9XBTpk5JnF79gbwvSzv7-AUfltPGcHt8/) | Olivier Flückiger | 2023-06-26 | 2023-06-26 | Under review | yes |
 | [Make ArrayBufferAllocator Isolate-independent](https://docs.google.com/document/d/1G33M5J-rcnJSjVrmO9iBPl8EpnHyQPgzNn3olinrbEM/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Making async_hooks fast (enough)](https://docs.google.com/document/d/1g8OrG5lMIUhRn1zbkutgY83MiTSMx-0NHDs8Bf-nXxM/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
-| [Making ES2015 classes fast](https://docs.google.com/document/d/1iCdbXuGVV8BK750wmP32eF4sCrnZ8y3Qlz0JiaLh9j8) | Benedikt Meurer | yyyy-mm-dd | 2017-08-08| ? | yes |
+| [Making ES2015 classes fast](https://docs.google.com/document/d/1iCdbXuGVV8BK750wmP32eF4sCrnZ8y3Qlz0JiaLh9j8/) | Benedikt Meurer | yyyy-mm-dd | 2017-08-08| ? | yes |
 | [Making PGO more configurable in V8](https://docs.google.com/document/d/1OhwZnIZom47IX0lyceyt-S9i8AApDB0UqJdvQD6NuKQ/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Merging bytecodes for switching and resuming generators](https://docs.google.com/document/d/1q76JhKKQ1TKoMZUm4UhExqfWRkbooRpGcA5qLtiS8sk/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [New API function Isolate::HasPendingBackgroundTasks](https://docs.google.com/document/d/18vaABH1mR35PQr8XPHZySuQYgSjJbWFyAW63LW2m8-w/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
@@ -139,7 +139,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Recording user actions using console utilities APIs](https://docs.google.com/document/d/1zGG7-NZMb-aOfFfHf1u4VsP4C-lZettopCvYDC6pkBw/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Redesigning Stack Unwinding in V8](https://docs.google.com/document/d/14H28zayHBcmge_-GHPb81quyW2tdmT940eN0t_4icg4/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Refactoring private name lookup](https://docs.google.com/document/d/1l-D70uaHzXU8QVgQZ3ACikb3FLO6LTAfQVdGDXsh5mw/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
-| [RegExp builtins (re)design document](https://docs.google.com/document/d/1MuqFjsfaRPL2ZqzVoeMRqtcAmcJSwmHljTbRIctVVUk) | Benedikt Meurer, Jakob Gruber | yyyy-mm-dd | 2017-04-21 | ? | yes |
+| [RegExp builtins (re)design document](https://docs.google.com/document/d/1MuqFjsfaRPL2ZqzVoeMRqtcAmcJSwmHljTbRIctVVUk/) | Benedikt Meurer, Jakob Gruber | yyyy-mm-dd | 2017-04-21 | ? | yes |
 | [Reliable await and yield breakpoints](https://docs.google.com/document/d/10wyjJ_w-hrHyJWnCz7kb8LolZLhjS5kX0pg-RWuXPCc/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Reliable Recordings](https://docs.google.com/document/d/1b4wMVPL7biYw_xM_GpUPunakjcJu14_Tshv-O4E4aWg/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Remove --always-turbofan](https://docs.google.com/document/d/1CGb_jQGQuoaHuEuVrKEpVWZXJXeFy5xtu7_oT7yFyAQ/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
@@ -148,7 +148,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Renaming GC test utilities](https://docs.google.com/document/d/1NjdEUHZeCs3JJskkBUAWZ5xIY8V17tMaBtkdFohLlP0/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Requirements for WebAssembly in IndexedDB](https://docs.google.com/document/d/1PntTuoo3MKGjfPEVyA0SC01NYRdpuCMxRKjHjW3Z1OA/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Resolving tail-call gap moves](https://docs.google.com/document/d/1WbX5B4ej9MzsJ28JS4J5cF2eiJhKyX39vAUB7GSA5YE/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
-| [Rest parameters and arguments object optimization plan](https://docs.google.com/document/d/1DvDx3Xursn1ViV5k4rT4KB8HBfBb2GdUy3wzNfJWcKM/edit#heading=h.x1cv1fi5g42q) | Benedikt Meurer | yyyy-mm-dd | 2017-02-21 | ? | yes |
+| [Rest parameters and arguments object optimization plan](https://docs.google.com/document/d/1DvDx3Xursn1ViV5k4rT4KB8HBfBb2GdUy3wzNfJWcKM/) | Benedikt Meurer | yyyy-mm-dd | 2017-02-21 | ? | yes |
 | [Reusing existing Scripts in the isolate compilation cache](https://docs.google.com/document/d/1UksB5Vm7TT1-f3S9W1dK_rP9jKn_ly0WVm_UDPpWuBw/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Revisiting V8's performance mode APIs](https://docs.google.com/document/d/1TkbuT0lOXeidBxPg9CHkfRDAP9Q-GQtaLhnGI7Lm6os/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Safepointing multiple isolates](https://docs.google.com/document/d/1y6C9zAACEr0sBYMIYk3YpXosnkF3Ak4CEuWJu1-3zXs/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
@@ -189,10 +189,10 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [TransitionArray thread-safety for concurrent compilation](https://docs.google.com/document/d/1ax2qyENdr50Qu9yur1qNu6_zRK0m6K2l7BLM_QDBFJM/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Transitioning Code objects](https://docs.google.com/document/d/12LHGkRXY1H3IFMBrdxs2vhgtG9bfJTdquQUsX1oPoSE/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [TurboFan Developer Tools Integration](https://docs.google.com/document/d/1zl0IA7dbPffvPPkaCmLVPttq4BYIfAe2Qy8sapkYgRE/) | Benedikt Meurer, Tobias Tebbi, Yang Guo | yyyy-mm-dd | 2017-02-21 | ? | yes |
-| [TurboFan Inlining](https://docs.google.com/document/d/1l-oZOW3uU4kSAHccaMuUMl_RCwuQC526s0hcNVeAM1E) | Benedikt Meurer | yyyy-mm-dd | 2020-11-11 | ? | yes |
+| [TurboFan Inlining](https://docs.google.com/document/d/1l-oZOW3uU4kSAHccaMuUMl_RCwuQC526s0hcNVeAM1E/) | Benedikt Meurer | yyyy-mm-dd | 2020-11-11 | ? | yes |
 | [TurboFan Inlining Heuristics](https://docs.google.com/document/d/1VoYBhpDhJC4VlqMXCKvae-8IGuheBGxy32EOgC2LnT8/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Turbofan Optimized String Builder](https://docs.google.com/document/d/1HSzXq3Hlf64FNNT2wOMlbSJH_I1EewybCn510KeKQ9A/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
-| [TurboFan Redundant Bounds and Overflow Check Elimination](https://docs.google.com/document/d/1R7-BIUnIKFzqki0jR4SfEZb3XmLafa04DLDrqhxgZ9U) | Benedikt Meurer | yyyy-mm-dd | 2016-09-29 | ? | yes |
+| [TurboFan Redundant Bounds and Overflow Check Elimination](https://docs.google.com/document/d/1R7-BIUnIKFzqki0jR4SfEZb3XmLafa04DLDrqhxgZ9U/) | Benedikt Meurer | yyyy-mm-dd | 2016-09-29 | ? | yes |
 | [Turboshaft Late Load Elimination](https://docs.google.com/document/d/1AEl4dATNLu8GlLyUBQFXJoCxoAT5BeG7RCWxoEtIBJE/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Turboshaft Loop Unrolling](https://docs.google.com/document/d/1baKksj_3cetkL-1IXG8UEFfRnhp2DVg--oWKLgQfG44/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Unique object identification in V8/CDP](https://docs.google.com/document/d/1vGVWvKP9FTTX6kimcUJR_PAfVgDeIzXXITFpl0SyghQ/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
@@ -206,7 +206,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [V8 Fast API Calls v1 Extended Argument Support](https://docs.google.com/document/d/1fVkG1IjUqgEW5y-awupKILxUlSMh5nPs7UzSEos1UmU/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 GC Parallelization Issues](https://docs.google.com/document/d/1bdlWAWeP3j2yo2DYfeok6URqFCrt57yx-nucGMybGGQ/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 Proposal: DUMP_ON_FAILURE](https://docs.google.com/document/d/1PStT6dPlSM7QfGUJQD6t6LNLTv_48gNMhY5RdEpt3XQ/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
-| [V8 Register allocation](https://docs.google.com/document/d/1aeUugkWCF1biPB4tTZ2KT3mmRSDV785yWZhwzlJe5xY/edit#heading=h.d7x8fhcobv3d) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [V8 Register allocation](https://docs.google.com/document/d/1aeUugkWCF1biPB4tTZ2KT3mmRSDV785yWZhwzlJe5xY/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 Sandbox - Address Space](https://docs.google.com/document/d/1PM4Zqmlt8ac5O8UNQfY7fOsem-6MhbsB-vjFI-9XK6w/) | Samuel Groß | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 Sandbox - Code Pointer Sandboxing](https://docs.google.com/document/d/1CPs5PutbnmI-c5g7e_Td9CNGh5BvpLleKCqUnqmD82k/) | Samuel Groß | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 Sandbox - V8 Sandbox - Glossary](https://docs.google.com/document/d/10ZVrH2m_cbsjhZmjnWd4K5jpEHWCLourq2dulwN8elI/) | Samuel Groß | 2023-12-dd | 2023-12-dd | Living Doc | yes |
