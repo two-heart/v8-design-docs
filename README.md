@@ -220,6 +220,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [V8 Torque Status and Future](https://docs.google.com/document/d/11FLTgsFEb_9uNuN8fwMTtaNlQ-qua6kIsKKjK9jbHcw/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 Tracing](https://docs.google.com/document/d/1_4LAnInOB8tM_DLjptWiszRwa4qwiSsDzMkO4tU-Qes/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8-local external memory in performance.memory](https://docs.google.com/document/d/1eGvXIWNRdmFF6FA1I2tpBTTJk08tZ6RNoVlPZx6DaH0/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [V8: C++ layout FixedArray](https://docs.google.com/document/d/1mooqCy71hq4Zk99-PYKkirCw82qJTGgN9ZUxu_t9urw/) | Leszek Swirski | 2024-02-21 | 2024-02-21 | ? | yes |
 | [V8: C++ object layout](https://docs.google.com/document/u/1/d/1gu_pcSNRAGlbQGCR_r0oNcEPGw9dM_bceVdz01uIaKQ/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8’s Object Model Using Well-Defined C++](https://docs.google.com/document/d/1_w49sakC1XM1OptjTurBDqO86NE16FH8LwbeUAtrbCo/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Wasm Debugging User Stories](https://docs.google.com/document/d/1XBlUbyYfPsn1OuCpq2F-O7E3zvsfa94ZFsiIcnq2w7I/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
