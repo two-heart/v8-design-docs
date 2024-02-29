@@ -56,6 +56,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [d8 changes needed for Atomics.waitAsync testing](https://docs.google.com/document/d/1BU-Zyco8YPP2Ra0Y3eVZ_BllzpUkJaJhmVmmnGD44Yc/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Default Derived Constructor Performance](https://docs.google.com/document/d/1ycc2k_j_BL9uzmW13Qdqhn09jZsFDNcCWVSqbB2vLHg) | Peter Marshall | yyyy-mm-dd | 2017-01-23 | ? | yes |
 | [Deserialize build dependency between chrome and V8](https://docs.google.com/document/d/1022AD3D5NtCTP0i7m-c_7JfoHu6PkJkAyePEC2ODMD8/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [design doc - GWP-Asan for V8 Heap](https://docs.google.com/document/d/1N7tOVJ6b7_yF2VpOVAdicD9nVIjlHK0mfQeOlb2g05s) | Choongwoo Han | yyyy-mm-dd | yyyy-mm-dd | Draft | yes |
 | [Design doc of register allocation for independent SIMD128 registers](https://docs.google.com/document/d/1UwmUwOI3eeIMYzZFRmeXmfyNXRFHNZAQ4BcN0ODdMmo/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Design Doc: ES6 modules in Blink](https://docs.google.com/document/d/1vjiWxwhg9D0GNNOYgw3AxMG0iKOC9I3jlID4GTgZsac/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Design doc: In-Place Weak References](https://docs.google.com/document/d/1P8cIme2wKszdYt64ObAiuh6pXgLnrrn80Hpl1ejJbOU/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
