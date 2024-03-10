@@ -112,8 +112,9 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Local compile hints](https://docs.google.com/document/d/1sM3Zkh2N48OIdUW7D2sca-6Tp85GFyFn_fQq1Kef76M/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Maglev](https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Maglev as a Frontend for Turboshaft](https://docs.google.com/document/d/1BatjXtg-Iv9mHgce_pa1L8MaCHShekQEg4jJ83IXd4o/) | Darius Mercadier | 2024-02-dd | 2024-03-08 | ? | yes |
-| [Maglev Untagged Phis](https://docs.google.com/document/d/1DSetLAdTIKp6DZebFw25YNqOzE-U6QWPTZFlORzbk_4/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Maglev Escape Analysis](https://docs.google.com/document/d/1ZK-3XpjdP4sPGk2-b87Ub9tkxYmP4f7tx7yC0rZZh6U/) | Leszek Swirski Victor Gomes | 2023-09-12 | 2024-01-31 | Draft | yes |
+| [Maglev Untagged Phis](https://docs.google.com/document/d/1DSetLAdTIKp6DZebFw25YNqOzE-U6QWPTZFlORzbk_4/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Maglev with the Reducer Framework (Preliminary Investigation)](https://docs.google.com/document/d/1i1GJ6tIDRBe_Dolwhdkm1vVSiLwSKC5CB88-u9pPjVo/) | Darius Mercadier | 27/11/2023 2023-11-27 | yyyy-mm-dd | ? | yes |
 | [maglev-osr](https://docs.google.com/document/d/1elYLtMbyouU9XBTpk5JnF79gbwvSzv7-AUfltPGcHt8/) | Olivier Flückiger | 2023-06-26 | 2023-06-26 | Under review | yes |
 | [Make ArrayBufferAllocator Isolate-independent](https://docs.google.com/document/d/1G33M5J-rcnJSjVrmO9iBPl8EpnHyQPgzNn3olinrbEM/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Making async_hooks fast (enough)](https://docs.google.com/document/d/1g8OrG5lMIUhRn1zbkutgY83MiTSMx-0NHDs8Bf-nXxM/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
