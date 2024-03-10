@@ -111,6 +111,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Lift GC restriction on fast API calls](https://docs.google.com/document/d/1jM4gqOraayxLWyOrtWG5HDiD9X9IqU9U8aKgKmYb2N0/) | Michael Lippautz | yyyy-mm-dd | yyyy-mm-dd | ? | no |
 | [Local compile hints](https://docs.google.com/document/d/1sM3Zkh2N48OIdUW7D2sca-6Tp85GFyFn_fQq1Kef76M/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Maglev](https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Maglev as a Frontend for Turboshaft](https://docs.google.com/document/d/1BatjXtg-Iv9mHgce_pa1L8MaCHShekQEg4jJ83IXd4o/) | Darius Mercadier | 2024-02-dd | 2024-03-08 | ? | yes |
 | [Maglev Untagged Phis](https://docs.google.com/document/d/1DSetLAdTIKp6DZebFw25YNqOzE-U6QWPTZFlORzbk_4/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Maglev Escape Analysis](https://docs.google.com/document/d/1ZK-3XpjdP4sPGk2-b87Ub9tkxYmP4f7tx7yC0rZZh6U/) | Leszek Swirski Victor Gomes | 2023-09-12 | 2024-01-31 | Draft | yes |
 | [maglev-osr](https://docs.google.com/document/d/1elYLtMbyouU9XBTpk5JnF79gbwvSzv7-AUfltPGcHt8/) | Olivier Flückiger | 2023-06-26 | 2023-06-26 | Under review | yes |
