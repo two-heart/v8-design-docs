@@ -237,6 +237,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Web Snapshots 0.1](https://docs.google.com/document/d/1Qierkg3b3klIwCQt-oZCHqhcc1_9DXNIErBwvdpD4wU/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [WebAssembly Debugging - Put Wasm in debuggable state](https://docs.google.com/document/d/1uzxNafq_gCvoHmxaZ-gF_40FSUpMbFnzolkb_o2LUFo/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [WebAssembly entities in DevTools](https://docs.google.com/document/d/1rqbu0jKTl3q_xCxLnKzkjGXWEsHnJ9aERVhKV9RNDgE/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [WebAssembly inlining for linear wasm modules in Turboshaft](https://docs.google.com/document/d/1DzL-bWJwS1BpdeRymK49GPJIE5V3DvOxdzLLxrdcSZY/) | Matthias Liedtke | 2024-02-02 | 2024-02-06 | Draft | yes |
 | [WebUI & Speculative RFH Creation Problems](https://docs.google.com/document/d/1ke5ZlCgQC5O0vt7FopVnOKW9asz-ZRFLl3XRpE8tLk8/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [What should getFunction and getThis return inside ShadowRealms?](https://docs.google.com/document/d/1aXEy4YCC9CduxLs7MGw-UOm0P4OuG7W-cScBnLG3ALI/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Well known imports support for fast API calls](https://docs.google.com/document/d/13SGO2m1Jt_fzbttYWktfMJ2IgfkEmA_fEhb7WNNtVEc/) | Andreas Haas | 2024-02-23 | 2024-02-23 | ? | yes |
