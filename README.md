@@ -239,6 +239,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [WebAssembly entities in DevTools](https://docs.google.com/document/d/1rqbu0jKTl3q_xCxLnKzkjGXWEsHnJ9aERVhKV9RNDgE/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [WebUI & Speculative RFH Creation Problems](https://docs.google.com/document/d/1ke5ZlCgQC5O0vt7FopVnOKW9asz-ZRFLl3XRpE8tLk8/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [What should getFunction and getThis return inside ShadowRealms?](https://docs.google.com/document/d/1aXEy4YCC9CduxLs7MGw-UOm0P4OuG7W-cScBnLG3ALI/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Well known imports support for fast API calls](https://docs.google.com/document/d/13SGO2m1Jt_fzbttYWktfMJ2IgfkEmA_fEhb7WNNtVEc/) | Andreas Haas | 2024-02-23 | 2024-02-23 | ? | yes |
 | [Worker requestNestedEventLoop 2-pager](https://docs.google.com/document/d/108Muq1GtByR4RgKbeAJmJ_IE5dUd5J4qKJ9RXCLdqDE/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [X64 Constant Pool Proposal Draft](https://docs.google.com/document/d/1W40WUTcLPYE3uBek_olTgiOgyKXMr4BP3o8m9uzv6Y8/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [“Internationalization Support inTemporal” V8 Design Doc](https://docs.google.com/document/d/1gI_Jd9ztnkqhQnDTR4GaI3JOFdMNJW2kQK_UaBPvMug/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
