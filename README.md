@@ -108,6 +108,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Lazy deoptimization without code patching](https://docs.google.com/document/d/1ELgd71B6iBaU6UmZ_lvwxf_OrYYnv0e4nuzZpK05-pg/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Lazy feedback vector allocation](https://docs.google.com/document/d/1m2PTNChrlJqw9MiwK_xEJfqbFHAgEHmgGqmIN49PaBY/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Leaptiering](https://docs.google.com/document/d/1Rf_Y7vLOYDCAVcpdJnSkwWcJeHj1K3CR2laF_oPbCZc/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Lift GC restriction on fast API calls](https://docs.google.com/document/d/1jM4gqOraayxLWyOrtWG5HDiD9X9IqU9U8aKgKmYb2N0/) | Michael Lippautz | yyyy-mm-dd | yyyy-mm-dd | ? | no |
 | [Local compile hints](https://docs.google.com/document/d/1sM3Zkh2N48OIdUW7D2sca-6Tp85GFyFn_fQq1Kef76M/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Maglev](https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Maglev Untagged Phis](https://docs.google.com/document/d/1DSetLAdTIKp6DZebFw25YNqOzE-U6QWPTZFlORzbk_4/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
