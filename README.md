@@ -124,6 +124,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Oilpan Caged Heap Expansion](https://docs.google.com/document/d/1yGAsu_41rU8_hGQ9tcSKH84Em3vj3uzw_c0YlL7SCjA/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Operation Extinction](https://docs.google.com/document/d/1YDfpZDKEhiPWjcr4RPIpU3ZuHsccDg0k7QpKQBQKsLE/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Optimal spill instruction placement](https://docs.google.com/document/d/1n9ADWnDI-sw0OvdSmrthf61prmDqbDmQq-NSrQw2MVI/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Optimize indirect calls in Wasm](https://docs.google.com/document/d/1jo-Gqn4BieiOFXZp2g06c3u0XO2QriyDbDu-yg2J2M0) | Clemens Backes | 2024-mm-dd | yyyy-mm-dd | Accepted | yes |
 | [Optimizations for Javascript `in` operator](https://docs.google.com/document/d/1tIfzywY8AeNVcy_sen-5Xev21MeZwjcU8QhSdzHvXig/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Optimizing Big BigInts](https://docs.google.com/document/d/1E1ucUEy-aB0VSsIkQ5P88ypP5MzbqzVa9ScSP1pfsJ8/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Optimizing Blink-to-V8 References](https://docs.google.com/document/d/10gnOV-SIjCmxl7lW79yACVx3AAqzgQXdRI1S_g4W29Y/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
