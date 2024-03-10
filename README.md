@@ -201,6 +201,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [TurboFan Inlining Heuristics](https://docs.google.com/document/d/1VoYBhpDhJC4VlqMXCKvae-8IGuheBGxy32EOgC2LnT8/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Turbofan Optimized String Builder](https://docs.google.com/document/d/1HSzXq3Hlf64FNNT2wOMlbSJH_I1EewybCn510KeKQ9A/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [TurboFan Redundant Bounds and Overflow Check Elimination](https://docs.google.com/document/d/1R7-BIUnIKFzqki0jR4SfEZb3XmLafa04DLDrqhxgZ9U/) | Benedikt Meurer | yyyy-mm-dd | 2016-09-29 | ? | yes |
+| [Turboshaft Frontend - Preliminary Design Elements](https://docs.google.com/document/d/1vL1_1g4sY4WbTgbirKBq-40_zsrhI-zM0ZiioC_ahl8/) | Darius Mercadier | 2023-11-02 | 2023-11-15 | ? | yes |
 | [Turboshaft Late Load Elimination](https://docs.google.com/document/d/1AEl4dATNLu8GlLyUBQFXJoCxoAT5BeG7RCWxoEtIBJE/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Turboshaft Loop Unrolling](https://docs.google.com/document/d/1baKksj_3cetkL-1IXG8UEFfRnhp2DVg--oWKLgQfG44/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Unique object identification in V8/CDP](https://docs.google.com/document/d/1vGVWvKP9FTTX6kimcUJR_PAfVgDeIzXXITFpl0SyghQ/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
