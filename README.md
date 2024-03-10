@@ -45,6 +45,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Concurrent and compact ArrayBuffer tracking](https://docs.google.com/document/d/1-ZrLdlFX1nXT3z-FAgLbKal1gI8Auiaya_My-a0UJ28/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Concurrent inlining - memory investigation 1](https://docs.google.com/document/d/1oUMxlC2YbficEVkQ1X8TK9WNCWRmLqzDRFy4z3cJsII/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Consistent Set/Store/Define naming](https://docs.google.com/document/d/1jvSEvXFHRkxg4JX-j6ho3nRqAF8vZI2Ai7RI8AY54gM/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Const tracking lets](https://docs.google.com/document/d/18F1syu8314lcz1pm9e2LNi3pYzp5t1ah5EpmR4mE4Tg/) | Marja Hölttä | 2024-01-dd | yyyy-mm-dd | ? | yes |
 | [Constant field tracking for arrays](https://docs.google.com/document/d/1r2GAvdi_wudDS6iRUfdPw0gxWMfV-IX1PqKgwW47FyE/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Constant folding strings concatenations in a concurrent compiler world](https://docs.google.com/document/d/1h5kdfemMQMpUd15PSKW1lqikJW5hsGwrmOvoqhGFRts/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Constant Recomputing Handler in Gbemu](https://docs.google.com/document/d/1iC6Y-Px4S1v6Rn9CF1y43BajLuW7XF-mXoNQx83OTAg/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
