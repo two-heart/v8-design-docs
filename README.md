@@ -216,6 +216,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [V8 CFI Proposal](https://docs.google.com/document/u/0/d/1O2jwK4dxI3nRcOJuPYkonhTkNQfbmwdvxQMyXgeaRHo/mobilebasic) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 Debug API (Re)design Document](https://docs.google.com/document/d/1M8DdgDldglYjQJ1mu0yBzwgR6lCX-ZKS_hxAJiCLT34/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 Extras Design Doc](https://docs.google.com/document/d/1AT5-T0aHGp7Lt29vPWFr2-qG8r3l9CByyvKwEuA8Ec0/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [V8 Efficiency Mode For Tiering](https://docs.google.com/document/d/1UQ9hec4k5_CDAXcMrYhOzfC8GWh1NJSQYwqygcpEcDw/) | Olivier Flückiger | 2024-03-21 | yyyy-mm-dd | ? | yes |
 | [V8 Fast API Calls v1 Extended Argument Support](https://docs.google.com/document/d/1fVkG1IjUqgEW5y-awupKILxUlSMh5nPs7UzSEos1UmU/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 GC Parallelization Issues](https://docs.google.com/document/d/1bdlWAWeP3j2yo2DYfeok6URqFCrt57yx-nucGMybGGQ/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 Proposal: DUMP_ON_FAILURE](https://docs.google.com/document/d/1PStT6dPlSM7QfGUJQD6t6LNLTv_48gNMhY5RdEpt3XQ/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
