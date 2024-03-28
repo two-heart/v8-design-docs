@@ -55,7 +55,8 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [CPU Profiler support for fast API calls](https://docs.google.com/document/d/1r32qlPzGz0P7nieisJ5h2qfSnWOs40Cigt0LXPipejE/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [CSA Compile-Time Type System](https://docs.google.com/document/d/10foP3m7SDWyFfbda96iEJ_XYOLQdd32AeoP8SD1cTcs/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [d8 changes needed for Atomics.waitAsync testing](https://docs.google.com/document/d/1BU-Zyco8YPP2Ra0Y3eVZ_BllzpUkJaJhmVmmnGD44Yc/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
-| [Default Derived Constructor Performance](https://docs.google.com/document/d/1ycc2k_j_BL9uzmW13Qdqhn09jZsFDNcCWVSqbB2vLHg) | Peter Marshall | yyyy-mm-dd | 2017-01-23 | ? | yes |
+| [Default Derived Constructor Performance](https://docs.google.com/document/d/1ycc2k_j_BL9uzmW13Qdqhn09jZsFDNcCWVSqbB2vLHg/) | Peter Marshall | yyyy-mm-dd | 2017-01-23 | ? | yes |
+| [Deopt support for WebAssembly](https://docs.google.com/document/d/1VxMGSR5NrGLeNmgn47N3k4Rs_FVfUnldH8Mk9saIEdA/) | Matthias Liedtke | 2024-03-26 | yyyy-mm-dd | Draft | yes |
 | [Deserialize build dependency between chrome and V8](https://docs.google.com/document/d/1022AD3D5NtCTP0i7m-c_7JfoHu6PkJkAyePEC2ODMD8/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [design doc - GWP-Asan for V8 Heap](https://docs.google.com/document/d/1N7tOVJ6b7_yF2VpOVAdicD9nVIjlHK0mfQeOlb2g05s) | Choongwoo Han | yyyy-mm-dd | yyyy-mm-dd | Draft | yes |
 | [Design doc of register allocation for independent SIMD128 registers](https://docs.google.com/document/d/1UwmUwOI3eeIMYzZFRmeXmfyNXRFHNZAQ4BcN0ODdMmo/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
