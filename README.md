@@ -122,6 +122,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Making async_hooks fast (enough)](https://docs.google.com/document/d/1g8OrG5lMIUhRn1zbkutgY83MiTSMx-0NHDs8Bf-nXxM/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Making ES2015 classes fast](https://docs.google.com/document/d/1iCdbXuGVV8BK750wmP32eF4sCrnZ8y3Qlz0JiaLh9j8/) | Benedikt Meurer | yyyy-mm-dd | 2017-08-08| ? | yes |
 | [Making PGO more configurable in V8](https://docs.google.com/document/d/1OhwZnIZom47IX0lyceyt-S9i8AApDB0UqJdvQD6NuKQ/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Member names in Oilpan heap snapshots](https://docs.google.com/document/d/1PQQHhT0MLlStoiqNmji2-GcX62xtAsXPrihXi403ib4/) | Seth Brenith | 2024-04-12 | 2024-04-12 | Draft | yes |
 | [Merging bytecodes for switching and resuming generators](https://docs.google.com/document/d/1q76JhKKQ1TKoMZUm4UhExqfWRkbooRpGcA5qLtiS8sk/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [New API function Isolate::HasPendingBackgroundTasks](https://docs.google.com/document/d/18vaABH1mR35PQr8XPHZySuQYgSjJbWFyAW63LW2m8-w/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [New ArrayBuffer API Explainer](https://docs.google.com/document/d/1sTc_jRL87Fu175Holm5SV0kajkseGl2r8ifGY76G35k/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
