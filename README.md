@@ -76,6 +76,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Explicit changes to the Wasm object model](https://docs.google.com/document/d/1__ULPnqDpxHTsHabH3gkbgksf-Ukq4OQxhmVorM3rbk/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | no |
 | [Expand fast API calls with Exceptions and Re-entry to JavaScript](https://docs.google.com/document/d/1QAibq4jcYc46pwBUi4VzkAABpTYD78XJSvEWpmn7GHE/) | Andreas Haas, Dominik Inführ, Michael Lippautz | 2024-03-08 | yyyy-mm-dd | Inception | yes |
 | [Fast C API in V8 - Explainer](https://docs.google.com/document/d/1nK6oW11arlRb7AA76lJqrBIygqjgdc92aXUPYecc9dU/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Fast string concatenation in JavaScript](https://docs.google.com/document/d/1o-MJPAddpfBfDZCkIHNKbMiM86iDFld7idGbNQLuKIQ/) | ? | yyyy-mm-dd | 2019-03-21 | ? | yes |
 | [Faster iteration protocol](https://docs.google.com/document/d/1s67HC2f-4zxA_s1Bmm7dfwMFv_KDUfMiWIKkNSeQNKw/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Faster js-to-wasm calls](https://docs.google.com/document/d/1mXxYnYN77tK-R1JOVo6tFG3jNpMzfueQN1Zp5h3r9aM/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Faster super property access](https://docs.google.com/document/d/1b_wgtExmJDLb8206jpJol-g4vJAxPs1XjEx95hwRboI/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
