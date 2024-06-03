@@ -158,6 +158,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Remove --always-turbofan](https://docs.google.com/document/d/1CGb_jQGQuoaHuEuVrKEpVWZXJXeFy5xtu7_oT7yFyAQ/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Remove Arguments Adaptor Frame in the Deoptimizer](https://docs.google.com/document/d/150wGaUREaZI6YWqOQFD5l2mWQXaPbbZjcAIJLOFrzMs/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Removing map deprecation](https://docs.google.com/document/d/1VeKIskAakxQFnUBNkhBmVswgR7Vk6T1kAyKRLhqerb4/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Remove special handling of TypedArrays in V8 fast API calls](https://docs.google.com/document/d/182ifq3wZAmdZKobmOF2MA4ro1UeCWR_0KUOH0vgHgRw/) | Andreas Haas | yyyy-mm-dd | 2024-06-03 | ? | yes |
 | [Renaming GC test utilities](https://docs.google.com/document/d/1NjdEUHZeCs3JJskkBUAWZ5xIY8V17tMaBtkdFohLlP0/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Requirements for WebAssembly in IndexedDB](https://docs.google.com/document/d/1PntTuoo3MKGjfPEVyA0SC01NYRdpuCMxRKjHjW3Z1OA/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Resolving tail-call gap moves](https://docs.google.com/document/d/1WbX5B4ej9MzsJ28JS4J5cF2eiJhKyX39vAUB7GSA5YE/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
