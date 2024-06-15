@@ -35,6 +35,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Chrometto: Typed trace events in Chrome](https://docs.google.com/document/d/1f7tt4cb-JcA5bQFR1oXk60ncJPpkL02_Hi_Bc6MfTQk/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Code caching for WebUI scripts](https://docs.google.com/document/d/1909zoSpNeMogKlmXmRtnSjyuot3YyxU-A_G8Fd4kDhs/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Code deps and DependentCode](https://docs.google.com/document/d/1B34S1s3Iv6hbquZ93RugD0b-ZKfHEptJ8Fk_YyOvjDk/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Code generation for Isolate field accesses in WebAssembly-Turboshaft](https://docs.google.com/document/d/11ir19jufN8dGZBGt4oZghdZnQjS2s9MM_RzijTnuJ0Y/) | Andreas Haas | yyyy-mm-dd | yyyy-mm-dd | Inception | yes |
 | [CodeMap GC for the V8 CPU profiler (public copy)](https://docs.google.com/document/d/1OTwlBnAMXZEaOICtuz16c01QnkPPdqHBoHpfGwnk5SY/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Compiling Sparkplug off-thread (Part I)](https://docs.google.com/document/d/1gZFoLEUQtZQpZzN9G8TsKPYA5s4U_ij4y9dwmMCrfnU/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Compress safepoint tables (not only for Wasm)](https://docs.google.com/document/d/14Du2KDeQj0qxt1Zx5TvvB_eccXmeGu0xls82Hk3yIAg/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
