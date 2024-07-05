@@ -13,6 +13,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | ----- | ------ | ------- | -------- | ------ | ------ | 
 | [`JSArrayBuffer` and `BackingStore` resizability flag state](https://docs.google.com/document/d/1CTJ39MDYJJzzr9nbTSYYjyKmdJJHYXRKSPdR7goY2uk/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [A Hopefully Final Version of a Generational DOM GC](https://docs.google.com/document/d/16DeHrzkm3cO9XCPT1aK3Y5qgUxXB3RFmueqQWYmN2rI/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [A new JavaScript wrapper object layout](https://docs.google.com/document/d/1FWnrKxjl0P-jY0CMPlzbXkH8xkKoX6nM4e2OXq1EGHU/) | Michael Lippautz | 2023-11-29 | 2024-03-11 | Final | yes |
 | [Abseil in V8](https://docs.google.com/document/d/1YJh_lb-V36PE1oebPEb4nj9s1qFvuDlDvvMghHqnPQg/) | Leszek Swirski | 2020-10-21 | 2020-10-23 | Final | yes |
 | [Access to out-of-scope private class members in the DevTools console](https://docs.google.com/document/d/1Va89BKHjCDs9RccDWhuZBb6LyRMAd6BXM3-p25oHd8I/) | Joyee Cheung, Caitlin Potter | 2022-11-dd | 2022-11-dd | Draft | yes |
 | [Add dayPeriod option to Intl.DateTimeFormat](https://docs.google.com/document/d/10l10gpw5hBdZ1OuYVqZPU72-61yyOaTUQllIVRyQoFM/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
