@@ -205,6 +205,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Tracking well-formed 2-byte strings](https://docs.google.com/document/d/15f-1c_Ysw3lvjy_Gx0SmmD9qeO8UuXuAbWIpWCnTDO8/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [TransitionArray thread-safety for concurrent compilation](https://docs.google.com/document/d/1ax2qyENdr50Qu9yur1qNu6_zRK0m6K2l7BLM_QDBFJM/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Transitioning Code objects](https://docs.google.com/document/d/12LHGkRXY1H3IFMBrdxs2vhgtG9bfJTdquQUsX1oPoSE/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Translation of generators from Maglev to Turboshaft](/https://docs.google.com/document/d/1-iFoVuvpIEjA9dtSsOjmKL5vAzzvf0cKI6f4zaObiV8/) | Darius Mercadier | 2024-07-dd | yyyy-mm-dd | ? | yes |
 | [TurboFan Developer Tools Integration](https://docs.google.com/document/d/1zl0IA7dbPffvPPkaCmLVPttq4BYIfAe2Qy8sapkYgRE/) | Benedikt Meurer, Tobias Tebbi, Yang Guo | yyyy-mm-dd | 2017-02-21 | ? | yes |
 | [TurboFan Inlining](https://docs.google.com/document/d/1l-oZOW3uU4kSAHccaMuUMl_RCwuQC526s0hcNVeAM1E/) | Benedikt Meurer | yyyy-mm-dd | 2020-11-11 | ? | yes |
 | [TurboFan Inlining Heuristics](https://docs.google.com/document/d/1VoYBhpDhJC4VlqMXCKvae-8IGuheBGxy32EOgC2LnT8/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
