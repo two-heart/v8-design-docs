@@ -244,6 +244,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [V8: C++ layout FixedArray](https://docs.google.com/document/d/1mooqCy71hq4Zk99-PYKkirCw82qJTGgN9ZUxu_t9urw/) | Leszek Swirski | 2024-02-21 | 2024-02-21 | Under review | yes |
 | [V8: C++ object layout](https://docs.google.com/document/u/1/d/1gu_pcSNRAGlbQGCR_r0oNcEPGw9dM_bceVdz01uIaKQ/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8’s Object Model Using Well-Defined C++](https://docs.google.com/document/d/1_w49sakC1XM1OptjTurBDqO86NE16FH8LwbeUAtrbCo/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Wasm Code Coverage in V8](https://docs.google.com/document/d/1NaD50lRija9DxHfb8X_rRlJ8EriqG_R20GM9E8Xf9ig/) | Paolo Severini | yyyy-mm-dd | 2025-04-01 | ? | yes |
 | [Wasm Debugging User Stories](https://docs.google.com/document/d/1XBlUbyYfPsn1OuCpq2F-O7E3zvsfa94ZFsiIcnq2w7I/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Wasm values in DevTools (with support for SIMD)](https://docs.google.com/document/d/1XQlX6DWsv6BPYnRtw-JZSASPEjsRlyXLnke7TTQ9Wrg/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [WAT-compatible disassembly and consistent naming](https://docs.google.com/document/d/1XoXWONLBgZWQ9dhtoMpQPvD0fnnWA50OorsuSXfME3g/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
