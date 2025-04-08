@@ -86,6 +86,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Fixing the scope chain for the implementation of private methods](https://docs.google.com/document/d/14maU596YbHcWR7XR-_iXM_ANhAAmiuRlJZysM61lqaE/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Function context specialization](https://docs.google.com/document/d/14maU596YbHcWR7XR-_iXM_ANhAAmiuRlJZysM61lqaE/) | Jaroslav Sevcik | yyyy-mm-dd | 2016-11-01 | ? | yes |
 | [Gap resolver algorithm](https://docs.google.com/document/d/1h4nxeEkMrVBd3QUmLBFGCqbq9BPUPFfkU6L0-IdvJdE/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Growable Stacks Design Doc](https://docs.google.com/document/d/1yw0n3aA7QVzkovI8uvLupe5AiocyW8lmweFQbDy3pFM/) | Ilya Rezvov | 2022-12-09 | yyyy-mm-dd | Inception | yes |
 | [Handles & Local Heaps](https://docs.google.com/document/d/17yKs-6apE2rGEag7tDsoyeRxg99c1dXyXQ2MfHe65tY/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Happy V8 developers writing test262 tests](https://docs.google.com/document/d/16bj7AIDgZLv4WOsUEzQ5NzcEN9_xo095e88Pz8FC5rA/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Ignition Design Doc](https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
