@@ -101,6 +101,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Implement “Temporal” Proposal in V8 Design Doc](https://docs.google.com/document/d/1Huu2OUlmveBh4wjgx0D7ouC9O9vSdiZWaRK3OwkQZU0/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Import Assertions Design](https://docs.google.com/document/d/1yuXgNHSbTAPubT1Mg0JXp5uTrfirkvO1g5cHHCe-LmY/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Improve performance on JetStream 2](https://docs.google.com/document/d/1UzCOai9H07fYcSaSqvF_H7BS2-sF5q91A4r9O1mRnHc/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Improved Escape Analysis](https://docs.google.com/document/d/1W6m8pxwGE8hrkTIWt9p7o6UhK2chSh1y-rlssyxVKNI/) | Victor Gomes | 2024-05-28 | 2024-05-29 | Approved | yes |
 | [Improving ParkableStrings thread-safety](https://docs.google.com/document/d/1OKF2TMc7nt_CPGfKkEEQsgxc5-brM5HBOMZA-mLeN48/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Improving WebUI code caching](https://docs.google.com/document/d/1HgbiRBSbZHzAtKj9n2tQZ4Ze3prvo50aplJHPPSLEBA/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Indirect and direct handles](https://docs.google.com/document/d/1hAm0xBxNper6JMR_uICq_6h8Q1kG8ymQkkZrVTKc2Mo/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
