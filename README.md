@@ -224,7 +224,6 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [V8 API for WebAssembly Trap Handler](https://docs.google.com/document/d/1HCgKIpdjy_CEodTLvZ5VuykDI6gGTHrTtau2j0zwm28/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 Async function design doc](https://docs.google.com/document/d/1K38ct2dsxG_9OfmgErvFld4MPDC4Wkr8tPuqmSWu_3Y/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 AsyncContext implementation](https://docs.google.com/document/d/19gkKY6qC3L5X8WtSAmFq33iNnzeer1mL5495oT1owjY/) | ? | 2024-03-15 | yyyy-mm-dd | Andreu Botella | yes |
-| [Zero-cost async stack traces](https://docs.google.com/document/d/13Sy_kBIJGP0XT34V1CV3nkWya4TwYx9L3Yv45LdGB6Q) | ? | ? | 2019-01-07 | ? | yes |
 | [V8 CFI Proposal](https://docs.google.com/document/u/0/d/1O2jwK4dxI3nRcOJuPYkonhTkNQfbmwdvxQMyXgeaRHo/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 CFI - WebAssembly Forward-Edge](https://docs.google.com/document/d/1Lyv7pUwMTNqxkIDUmcL_-hBkFFGOP9ObAwV1CMTnR5E/) | Stephen Röttger | 2024-06-10 | yyyy-mm-dd | ? | yes |
 | [V8 Debug API (Re)design Document](https://docs.google.com/document/d/1M8DdgDldglYjQJ1mu0yBzwgR6lCX-ZKS_hxAJiCLT34/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
@@ -238,11 +237,11 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [V8 Sandbox - Address Space](https://docs.google.com/document/d/1PM4Zqmlt8ac5O8UNQfY7fOsem-6MhbsB-vjFI-9XK6w/) | Samuel Groß | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 Sandbox - Code Pointer Sandboxing](https://docs.google.com/document/d/1CPs5PutbnmI-c5g7e_Td9CNGh5BvpLleKCqUnqmD82k/) | Samuel Groß | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 Sandbox - V8 Sandbox - Glossary](https://docs.google.com/document/d/10ZVrH2m_cbsjhZmjnWd4K5jpEHWCLourq2dulwN8elI/) | Samuel Groß | 2023-12-dd | 2023-12-dd | Living Doc | yes |
-| [V8 Sandbox - Sandboxed Pointers](https://docs.google.com/document/d/1HSap8-J3HcrZvT7-5NsbYWcjfc0BVoops5TDHZNsnko) | Samuel Groß | 2022-02-dd | 2022-02-dd | Living Doc | yes |
 | [V8 Sandbox - External Pointer Sandboxing](https://docs.google.com/document/d/1V3sxltuFjjhp_6grGHgfqZNK57qfzGzme0QTk0IXDHk/) | Samuel Groß | 2022-07-dd | 2022-07-dd | Living Doc | yes |
 | [V8 Sandbox - Hardware Sandbox v0.1](https://docs.google.com/document/d/1l3urJdk1M3JCLpT9HDvFQKOxuKxwINcXoYoFuKkfKcc/) | Samuel Groß | 2025-05-dd | 2025-05-dd | Draft | yes |
 | [V8 Sandbox - Hardware Support](https://docs.google.com/document/d/12MsaG6BYRB-jQWNkZiuM3bY8X2B2cAsCMLLdgErvK4c/) | Samuel Groß | 2024-02-dd | 2024-02-dd | Living Doc | yes |
 | [V8 Sandbox - High-Level Design Doc](https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8/) | Samuel Groß | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [V8 Sandbox - Sandboxed Pointers](https://docs.google.com/document/d/1HSap8-J3HcrZvT7-5NsbYWcjfc0BVoops5TDHZNsnko/) | Samuel Groß | 2022-02-dd | 2022-02-dd | Living Doc | yes |
 | [V8 Sandbox - Trusted Space](https://docs.google.com/document/d/1IrvzL4uX_Zv0k2Iakdp_q_z33bj-qlYF5IesGpXW0fM/) | Samuel Groß | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 Torque Status and Future](https://docs.google.com/document/d/11FLTgsFEb_9uNuN8fwMTtaNlQ-qua6kIsKKjK9jbHcw/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 Tracing](https://docs.google.com/document/d/1_4LAnInOB8tM_DLjptWiszRwa4qwiSsDzMkO4tU-Qes/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
@@ -265,3 +264,4 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Worker requestNestedEventLoop 2-pager](https://docs.google.com/document/d/108Muq1GtByR4RgKbeAJmJ_IE5dUd5J4qKJ9RXCLdqDE/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [X64 Constant Pool Proposal Draft](https://docs.google.com/document/d/1W40WUTcLPYE3uBek_olTgiOgyKXMr4BP3o8m9uzv6Y8/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [“Internationalization Support inTemporal” V8 Design Doc](https://docs.google.com/document/d/1gI_Jd9ztnkqhQnDTR4GaI3JOFdMNJW2kQK_UaBPvMug/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Zero-cost async stack traces](https://docs.google.com/document/d/13Sy_kBIJGP0XT34V1CV3nkWya4TwYx9L3Yv45LdGB6Q/) | ? | ? | 2019-01-07 | ? | yes |
