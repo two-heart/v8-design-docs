@@ -235,6 +235,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [V8 Register allocation](https://docs.google.com/document/d/1aeUugkWCF1biPB4tTZ2KT3mmRSDV785yWZhwzlJe5xY/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 Sandbox + Leaptiering](https://docs.google.com/document/d/1WkyEynMluvIr0LBmrapyF7MiE8wIHFHnlP5B6FFhQuA/) | ‪Olivier Flückiger, Samuel Groß | 2024-07-dd | yyyy-mm-dd | in development | yes |
 | [V8 Sandbox - Address Space](https://docs.google.com/document/d/1PM4Zqmlt8ac5O8UNQfY7fOsem-6MhbsB-vjFI-9XK6w/) | Samuel Groß | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [V8 Sandbox - Bytecode Verification](https://docs.google.com/document/d/1UUooVKUvf1zDobG34VDVuLsjoKZd-CeSuhvBcLysc7U/) | Samuel Groß | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 Sandbox - Code Pointer Sandboxing](https://docs.google.com/document/d/1CPs5PutbnmI-c5g7e_Td9CNGh5BvpLleKCqUnqmD82k/) | Samuel Groß | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [V8 Sandbox - V8 Sandbox - Glossary](https://docs.google.com/document/d/10ZVrH2m_cbsjhZmjnWd4K5jpEHWCLourq2dulwN8elI/) | Samuel Groß | 2023-12-dd | 2023-12-dd | Living Doc | yes |
 | [V8 Sandbox - External Pointer Sandboxing](https://docs.google.com/document/d/1V3sxltuFjjhp_6grGHgfqZNK57qfzGzme0QTk0IXDHk/) | Samuel Groß | 2022-07-dd | 2022-07-dd | Living Doc | yes |
