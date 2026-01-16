@@ -28,6 +28,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Better fuzzing for workers](https://docs.google.com/document/d/1-Gi37Ks7rXMVVRkC_HkwGxenP7T1huQUOMrYOtkUCFk/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Blackboxing in two tables](https://docs.google.com/document/d/1hnzaXPAN8_QC5ENxIgxgMNDbXLraM_OXT73rAyijTF8/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Blink String findings](https://docs.google.com/document/d/101eAQqFpBPWFGNJicxtdlwYShJkTOUsEuxkVVeu5Hrk/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [Block Code Coverage](https://docs.google.com/document/d/1wCydi2HEZRF0skDeLb6CH0abZnTyVo5Vz5u-jhwi7es/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Break on Trusted Type violation (including report-only mode)](https://docs.google.com/document/d/1rlRtq_Ai0leS9sqlRvoOL5RNc1BR6Q1yAVvLLJFasMA/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Bytecode flushing](https://docs.google.com/document/d/1qR_C8qYdKsDQFbFliAZLw2zmZ0nhA0xUCld1ba3N2Zk/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Check Flag Contradictions for d8](https://docs.google.com/document/d/1lkvu8crkK7Ei39qjkPCFijpNyxWXsOktG9GB-7K34jM/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
@@ -113,6 +114,7 @@ Feel free to open PRs that add V8 design docs or fill in missing information.
 | [Iterator builtins design document](https://docs.google.com/document/d/13z1fvRVpe_oEroplXEEX0a3WK94fhXorHjcOMsDmR-8/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [JS Promise Integration API](https://docs.google.com/document/d/1VogUgBN-0I9tE3Y9SfO5ev6grY38h9ci30EJnE6T1ho/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [JSAny: A Torque Type for JavaScript Values](https://docs.google.com/document/d/1z6j0pWHnNIfId0v00uWN2HBrGRDJxJfYuCr5K7Kr1xA/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
+| [JS code coverage in V8](https://docs.google.com/document/d/1cckByXUbPxpd8C9Si9K_XphnG_7mofNzs6vTxzMYGAA/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Lazy deoptimization without code patching](https://docs.google.com/document/d/1ELgd71B6iBaU6UmZ_lvwxf_OrYYnv0e4nuzZpK05-pg/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Lazy feedback vector allocation](https://docs.google.com/document/d/1m2PTNChrlJqw9MiwK_xEJfqbFHAgEHmgGqmIN49PaBY/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
 | [Leaptiering](https://docs.google.com/document/d/1Rf_Y7vLOYDCAVcpdJnSkwWcJeHj1K3CR2laF_oPbCZc/) | ? | yyyy-mm-dd | yyyy-mm-dd | ? | yes |
